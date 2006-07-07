@@ -16,10 +16,13 @@
 .DS_store
 # Simulated Subversion default ignores end here
 /headers
-
 /temp
-
 /libs
-
 /out
+/autom4te.cache
+/Jamfile
+/config.h
+/config.log
+/config.status
+/Jamconfig
 
