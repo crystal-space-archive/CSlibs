@@ -1,24 +1,15 @@
 /*.rev
-
 /lib3ds
-
 /libcaca
-
 /libcal3d
-
 /libfreetype
-
 /libmikmod
-
 /libmng
-
 /libode
-
 /libogg
-
 /libpng
-
 /libvorbis
-
 /libz
+/libbullet
+/libjs
 
