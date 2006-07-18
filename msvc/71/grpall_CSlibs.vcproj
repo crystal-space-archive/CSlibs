@@ -60,7 +60,7 @@
 				TargetMachine="1"/>
 			<Tool
 				Name="VCLibrarianTool"
-				OutputFile="..\..\grpall_CSlibs.lib"
+				OutputFile="..\..\grpall_CSlibs"
 				SuppressStartupBanner="TRUE"/>
 			<Tool
 				Name="VCMIDLTool"
