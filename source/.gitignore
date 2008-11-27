@@ -15,4 +15,6 @@
 /libpcre
 /libCEGUI
 /libwx
+/glib
+/pkg-config
 
