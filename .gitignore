@@ -28,4 +28,5 @@
 /Jamconfig
 /headers-extra
 /*.stackdump
+/headers-wx
 
