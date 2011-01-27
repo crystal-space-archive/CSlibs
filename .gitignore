@@ -15,18 +15,20 @@
 .*.swp
 .DS_store
 # Simulated Subversion default ignores end here
-/headers
-/headers-nocygwin
-/temp
-/libs
-/out
-/autom4te.cache
+/*.stackdump
+/Jamconfig
 /Jamfile
+/Readme-standard.rtf
+/Readme-static.rtf
+/autom4te.cache
 /config.h
 /config.log
 /config.status
-/Jamconfig
+/headers
 /headers-extra
-/*.stackdump
+/headers-nocygwin
 /headers-wx
+/libs
+/out
+/temp
 
